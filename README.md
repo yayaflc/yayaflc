@@ -1,10 +1,10 @@
-### Hi, I'm Yasmin (◍•ᴗ•◍)♡ ✧*。
+### Hi, I'm Yasmin (๑•ᴗ•๑) ♡ ✧*。
 
-<img align='right' src="" width="230">
-
+<img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/pc.gif" width="413">
+<p><em> Sou estudante de Ciência da Computação e futura Desenvolvedora Front-End.</a>
+ </em></p>
 
 <div> 
-  <a href="https://twitter.com/yayafps" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yayaflc" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/yayafps" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasminccfe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -13,8 +13,11 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/yayaflc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayaflc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayaflc&layout=compact&langs_count=7&theme=omni"/>
 </div>
+  
+<!--
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayaflc&layout=compact&langs_count=7&theme=omni"/>
+-->
