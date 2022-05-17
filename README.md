@@ -1,7 +1,7 @@
 ### Oi, eu sou a Yasmin! (๑•ᴗ•๑) ♡ ✧*。
 
 <img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="330">
-<p><em> Sou estudante de Ciência da Computação e futura Desenvolvedora Front-End.</a>
+<p><em> Estudante de Ciência da Computação e futura Desenvolvedora Front-End.</a>
  </em></p>
 
 <div> 
