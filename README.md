@@ -1,4 +1,4 @@
-### hi, I'm yaya! (๑•ᴗ•๑) ♡ ✧*。
+### Hi, I'm Yasmin! (๑•ᴗ•๑) ♡ ✧*。
 
 <img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="300">
 <p><em> Computer Science student and aspirant front-end developer.</em></p>
