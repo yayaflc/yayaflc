@@ -1,7 +1,7 @@
 ### Hi, I'm Yasmin! (๑•ᴗ•๑) ♡ ✧*。
 
 <img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="300">
-<p><em> Computer Science student and aspirant front-end developer.</em></p>
+<p><em> Computer Science student at UAM and aspirant front-end developer.</em></p>
 
 <div> 
   <a href="https://instagram.com/yayaflc" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
