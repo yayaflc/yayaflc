@@ -1,9 +1,9 @@
-### Hi, I'm Yasmin! (๑•ᴗ•๑) ♡ ✧*。
+## Hi, I'm Yasmin! (๑•ᴗ•๑) ♡ ✧*。
 
 <img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="300">
 
-- Computer Science student at UAM and aspirant fullstack developer.
-- Community Manager at [@he4rt](https://heartdevs.com/), Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842) ✧⋆*.⋆
+- *Computer Science student at UAM and aspirant fullstack developer.*
+- *Community Manager at [@he4rt](https://heartdevs.com/), Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842) ✧⋆*.⋆
 
 <div>
   <a href="https://twitter.com/yayaflc" target="_blank">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
