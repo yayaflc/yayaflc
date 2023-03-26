@@ -1,10 +1,11 @@
-## hi! i'm yaya (๑•ᴗ•๑) ♡ ✧*。
+## Hi! I'm yaya (๑•ᴗ•๑) ♡ ✧*。
 
 <img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="300">
 
 - Computer Science student at UAM and aspirant fullstack developer.
-- Community Manager at [@he4rt](https://heartdevs.com/), Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842) ✧⋆*.⋆
-- I'm currently doing a bootcamp @Grupo Boticário and Alura Include.
+- Community Manager at [he4rt](https://heartdevs.com/), Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842).
+- I'm currently doing a bootcamp called Programa Desenvolve by Grupo Boticário and Alura Include.
+- Passionate about tech communities and minority inclusion projects.
 
  <p align='center'><i><b> let's chat! be free to contact me :) </i></b>
 
