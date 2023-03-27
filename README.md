@@ -7,7 +7,7 @@
 - I'm currently doing a bootcamp called Programa Desenvolve by Grupo Boticário and Alura Include.
 - Passionate about tech communities and minority inclusion projects.
 
- <p align='center'><i><b> let's chat! be free to contact me :) </i></b>
+ <p align='center'><i><b> let's chat! feel free to contact me :) </i></b>
 
 <div>
   <a href="https://twitter.com/yayaflc" target="_blank">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
