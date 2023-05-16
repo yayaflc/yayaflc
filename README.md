@@ -4,6 +4,7 @@
 
 - Computer Science student at UAM and aspirant fullstack developer.
 - Community Manager at [he4rt](https://heartdevs.com/), Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842).
+- Livecoder at Twitch.
 - I'm currently doing a bootcamp called Programa Desenvolve by Grupo Boticário and Alura Include.
 - Passionate about tech communities and minority inclusion projects.
 
