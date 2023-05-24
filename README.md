@@ -1,6 +1,6 @@
 ## Hi! I'm yaya (๑•ᴗ•๑) ♡ ✧*。
 
-<img align='right' src="https://github.com/yayaflc/yayaflc/blob/main/gitperfil.gif" width="300">
+<img align='right' src="yayaAnotando.png" width="200">
 
 - Computer Science student at UAM and aspirant fullstack developer.
 - Community Manager at [he4rt](https://heartdevs.com/) and Comittee Member at [he4rt delas](https://twitter.com/He4rtDevs/status/1577314455247011842).
