@@ -1,6 +1,5 @@
 ## Hi! I'm yaya ଘ( ᴖ⩊ᴖ)⊃━☆゜
 
-
 <div>
   <img align='right' src="yayaAnotando.png" width="200">
   <img align='right' src="stars.gif" width="60">
@@ -9,8 +8,6 @@
 - Software Developer at [Grupo Boticário](https://www.grupoboticario.com.br/).
 - Computer Science student.
 - Passionate about tech communities and minority inclusion projects.
-
-<br>
 
  <p align='center'><i><b> let's chat! feel free to contact me :) </i></b></p>
 
