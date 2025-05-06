@@ -16,7 +16,7 @@
     <b>PT/BR</b>
   </summary>
   
-  <h2>Oi, eu sou a yaya (๑•ᴗ•๑) ♡ ✧*</h2>
+  <h2>Oi, eu sou a yaya ଘ( ᴖ⩊ᴖ)⊃━☆</h2>
 
   - Software Developer na [Grupo Boticário](https://www.grupoboticario.com.br/).
   - Estudante de Ciência da Computação
