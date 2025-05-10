@@ -42,7 +42,7 @@
 ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟◞ ྀི◟ ͜ ◞ ྀི◟ ͜ ◞ ྀི◟
 ##
 
-<p><samp><strong>> <u>skills</u>︵ ｡ ૭ৎ</strong>
+<p><samp><strong>> <u>skills</u> ︵ ｡ ૭ৎ</strong>
 
 <div>
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E980A1">
